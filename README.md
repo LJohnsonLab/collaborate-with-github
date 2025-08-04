@@ -38,7 +38,7 @@ Bioinformatics projects often involve complex scripts, evolving pipelines, and m
 
 ## 📚 Contents
 
-- 🚀 Dual GitHub Account Setup (Personal and Organization) with SSH Access in RStudio Projects
+- 🚀 [Dual GitHub Account Setup (Personal and Organization) with SSH Access in RStudio Projects](https://github.com/LJohnsonLab/collaborate-with-github/blob/main/Dual-GitHubAccount-Setup-with-RStudio-Projects.md)
 
 ---
 
